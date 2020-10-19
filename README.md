@@ -7,7 +7,7 @@ $ pkg install python
 
 $ gitclone https://github.com/JackDaniel26/AutoDefacer
 
-cd AutoDefacer
+$ cd AutoDefacer
 
-python jack.py
+$ python jack.py
 
